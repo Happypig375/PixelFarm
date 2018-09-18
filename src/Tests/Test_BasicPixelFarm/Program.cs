@@ -11,6 +11,7 @@ namespace TestGraphicPackage2
         {
             YourImplementation.TestBedStartup.Setup();
             YourImplementation.TestBedStartup.RunDemoList(typeof(Program));
+            
         }
     }
 }

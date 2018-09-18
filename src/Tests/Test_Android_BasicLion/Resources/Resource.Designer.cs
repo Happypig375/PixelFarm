@@ -26,8 +26,6 @@ namespace Test_Android_BasicLion
 		
 		public static void UpdateIdValues()
 		{
-			global::PixelFarm.Android.One.Resource.String.ApplicationName = global::Test_Android_BasicLion.Resource.String.ApplicationName;
-			global::PixelFarm.Android.One.Resource.String.Hello = global::Test_Android_BasicLion.Resource.String.Hello;
 		}
 		
 		public partial class Attribute
